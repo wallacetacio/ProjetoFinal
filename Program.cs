@@ -18,7 +18,7 @@ namespace ProjetoFinal
         static void creditos()
         {
             Console.WriteLine(@"Criador: Wallace Tácio Teixeira
-Site: https://github.com/wallacetacio/ProjetoFinal?classId=0f526fae-1786-4ae1-a2b4-b585a14065ac&assignmentId=9c46b86e-7a00-4cbd-8b51-13a51fe59639&submissionId=4000287d-ae6e-3408-690a-df4157ae9b3d");
+Site: https://wallacetacio.github.io/ProjetoFinal/");
         }
 
         static void executarOpcao(int opcao)
